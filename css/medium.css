@@ -1,0 +1,10 @@
+body{
+    font-family: 'Merriweather', serif;
+}
+
+.bg-blue{
+    background-color:rgb(196, 226, 255); 
+}
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(0,0,0,0.8);
+}
