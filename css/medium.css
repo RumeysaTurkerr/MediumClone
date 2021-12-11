@@ -8,3 +8,16 @@ body{
 .border-bottom-dark{
     border-bottom: 1px solid rgba(0,0,0,0.8);
 }
+.border-bottom-light{
+    border-bottom: 1px solid rgba(230, 230, 230, 1);
+}
+.aside-buttons > li {
+margin-bottom: 10px;
+margin-left:10px;
+}
+
+    .medium-size{
+        height:400px;
+        width:300px;
+    }
+    
